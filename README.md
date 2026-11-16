@@ -23,7 +23,7 @@ Analizo datos con ubicación para responder **dónde, cuánto y por qué** pasa 
 - 🚶 **Accesibilidad, localización y movilidad urbana**
 - 🛰️ **Cartografía temática, teledetección, mapas interactivos y tableros de datos**
 
-### 📌 Proyecto destacado
+### 📌 Proyectos destacados
 
 - 🏠 **[Precio de la vivienda en el Gran Santiago](https://github.com/geografaengelman-dev/precio-vivienda-santiago):** 102.642 ventas de casas, accesibilidad a áreas verdes con el modelo de Hansen, regresión hedónica frente a machine learning y validación espacial.
 - 📍 **[Autocorrelación y regresión espacial en R](https://github.com/geografaengelman-dev/econometria-espacial-r):** criterios de vecindad, LISA, puntos calientes de Getis-Ord, modelos SAR/SEM y regresión geográficamente ponderada.
