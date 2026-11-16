@@ -12,7 +12,7 @@
 
 ### 🌎 Sobre mí
 
-Soy **geógrafa** (Universidad Nacional de Cuyo), **diplomada en Análisis Espacial de Datos** (Universidad de Chile) y **doctoranda en Ciencias Sociales**. Vivo en Mendoza, Argentina.
+Soy **geógrafa** (Universidad Nacional de Cuyo), **diplomada en Análisis Espacial de Datos** (Universidad de Chile) y **doctoranda en Ciencias Sociales** (Facultad de Ciencias Políticas y Sociales, UNCuyo). Vivo en Mendoza, Argentina.
 
 Analizo datos con ubicación para responder **dónde, cuánto y por qué** pasa lo que pasa en el territorio. Trabajé como **analista SIG** en la Secretaría de Desarrollo Urbano del Gobierno de Mendoza, en una consultora ambiental para un proyecto **PNUMA–GEF** y con clientes internacionales en **Upwork**. Fui becaria del **CONICET** e investigué sobre agua, ambiente y territorio.
 
