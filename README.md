@@ -25,7 +25,8 @@ Analizo datos con ubicación para responder **dónde, cuánto y por qué** pasa 
 
 ### 📌 Proyecto destacado
 
-**Precio de la vivienda en el Gran Santiago:** 102.642 ventas de casas, accesibilidad a áreas verdes con el modelo de Hansen, regresión hedónica frente a machine learning y validación espacial.
+- 🏠 **[Precio de la vivienda en el Gran Santiago](https://github.com/geografaengelman-dev/precio-vivienda-santiago):** 102.642 ventas de casas, accesibilidad a áreas verdes con el modelo de Hansen, regresión hedónica frente a machine learning y validación espacial.
+- 📍 **[Autocorrelación y regresión espacial en R](https://github.com/geografaengelman-dev/econometria-espacial-r):** criterios de vecindad, LISA, puntos calientes de Getis-Ord, modelos SAR/SEM y regresión geográficamente ponderada.
 
 <br clear="right"/>
 
